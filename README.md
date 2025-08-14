@@ -1,13 +1,12 @@
 # 👋 Hi, I’m Ayesha Mukhtar Asad  
 
-🎓 **Software Engineer** | 💻 **Full-Stack Web Developer (Java & MERN Stack)** | 🎨 **Certified UI/UX Designer (Figma)**  
+🎓 **Software Engineer** | 💻 **Full-Stack Web Developer (Java & MERN Stack)** | 🎨 ** UI/UX Designer (Figma)**  
 
 I’m a **Software Engineer from Pakistan 🇵🇰** passionate about building **modern, scalable, and user-focused web applications**.  
-With expertise in **Java, JavaScript, HTML, CSS, React, Node.js, Express.js, Angular, MongoDB, and MySQL**, I create **responsive, high-performance, and accessible** solutions that combine **front-end elegance** with **back-end robustness**.  
+With expertise in **Java, JavaScript, HTML, CSS, React, Node.js, Express.js, MongoDB, and MySQL**, I create **responsive, high-performance, and accessible** solutions that combine **front-end elegance** with **back-end robustness**.  
 
-💼 As a **Certified UI/UX Designer**, I design **pixel-perfect, user-centered prototypes** in Figma and develop them into production-ready applications.  
-I’m skilled in **REST API** and **SOAP API integrations**, ensuring smooth client-server communication.  
-Following **software architecture best practices**, I build maintainable, scalable applications aligned with **UN Sustainable Development Goals (SDGs)**.  
+💼 As a ** UI/UX Designer**, I design **pixel-perfect, user-centered prototypes** in Figma and develop them into production-ready applications.  
+I’m skilled in **REST API** and **SOAP API integrations**, ensuring smooth client-server communication.   
 
 ---
 
@@ -58,8 +57,8 @@ Following **software architecture best practices**, I build maintainable, scalab
 ---
 
 ## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-mukhtar-asad-76947026b) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ayesha-Asadd) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesha.m.asad23@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://github.com/Ayesha-Asadd) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ayesha-Asadd) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesha.m.asad23@gmail.com)  
 
 ---
 
-> 💡 *"Clean code, intuitive design, and impactful solutions — that’s my development philosophy."* 🚀
+> 💡 *"Coding solves problems. Designing makes solutions unforgettable — that’s my development philosophy."* 🚀
