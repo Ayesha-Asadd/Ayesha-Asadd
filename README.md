@@ -5,7 +5,7 @@
 I’m a **Software Engineer from Pakistan 🇵🇰** passionate about building **modern, scalable, and user-focused web applications**.  
 With expertise in **Java, JavaScript, HTML, CSS, React, Node.js, Express.js, MongoDB, and MySQL**, I create **responsive, high-performance, and accessible** solutions that combine **front-end elegance** with **back-end robustness**.  
 
-💼 As a ** UI/UX Designer**, I design **pixel-perfect, user-centered prototypes** in Figma and develop them into production-ready applications.  
+💼 As a **UI/UX Designer**, I design **pixel-perfect, user-centered prototypes** in Figma and develop them into production-ready applications.  
 I’m skilled in **REST API** and **SOAP API integrations**, ensuring smooth client-server communication.   
 
 ---
