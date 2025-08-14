@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayesha Mukhtar Asad  
 
-🎓 **Software Engineer** | 💻 **Full-Stack Web Developer (Java & MERN Stack)** | 🎨 ** UI/UX Designer (Figma)**  
+🎓 **Software Engineer** | 💻 **Full-Stack Web Developer (Java & MERN Stack)** | 🎨 **UI/UX Designer (Figma)**  
 
 I’m a **Software Engineer from Pakistan 🇵🇰** passionate about building **modern, scalable, and user-focused web applications**.  
 With expertise in **Java, JavaScript, HTML, CSS, React, Node.js, Express.js, MongoDB, and MySQL**, I create **responsive, high-performance, and accessible** solutions that combine **front-end elegance** with **back-end robustness**.  
