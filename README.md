@@ -1,37 +1,51 @@
-# 👋 Hi, I’m Ayesha Mukhtar Asad  
+<!-- Banner -->
+![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Ayesha+Mukhtar+Asad+-+Software+Engineer)
 
-🎓 **Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **Certified Figma UI/UX Designer**  
+## 👩‍💻 About Me  
 
-💡 I’m a passionate **Software Engineer** from Pakistan 🇵🇰 specializing in building **modern, scalable, and user-focused web applications**.  
-I combine **front-end excellence** with **backend power** to create seamless digital experiences using:  
-**React**, **Node.js**, **Express.js**, and robust **API integrations**.  
+Hi! I’m **Ayesha Mukhtar Asad**, a passionate **Software Engineering student** who thrives on transforming ideas into impactful digital solutions.  
+I specialize in **Java development, modern web technologies (HTML, CSS, JavaScript)**, and crafting **intuitive, user-friendly interfaces**.  
 
-💼 With a **Certification in Figma UI/UX Designing**, I craft pixel-perfect prototypes and turn them into functional, production-ready interfaces.  
-I’m also experienced in working with **REST** and **SOAP APIs**, ensuring smooth communication between client and server systems.  
-
----
-
-## 🚀 Tech Stack & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,express,postman,figma,git,github,vscode" />
-</p>
+With a **forward-thinking approach** and a **problem-solving mindset**, I enjoy building **sustainable, real-world projects** aligned with **UN Sustainable Development Goals (SDGs)**.  
+I hold **several certifications in UI/UX design**, helping me create visually appealing, accessible, and user-centered software solutions.  
 
 ---
 
-## 🌟 Professional Highlights  
-- 💼 Develop **responsive, high-performance web applications** with React, Node.js, and Express.js  
-- 🔍 Expert in **API consumption & integration** for both REST and SOAP services  
-- 🎨 **Certified in Figma UI/UX Designing** – skilled in creating high-fidelity prototypes and user-centric designs  
-- 📈 Implement **software architecture best practices** for scalable and maintainable systems  
-- 🚀 Deliver **clean, intuitive, and impactful solutions** that align with client goals  
+## 💻 Tech Skills  
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📜 Certifications  
+
+🏆 **UI/UX Design Essentials** – *Designing User-Friendly Experiences*  
+🏆 **Advanced UI/UX for Web & Mobile** – *From Wireframe to Prototype*  
+🏆 **Responsive Web Design** – *Modern, Mobile-First Interfaces*  
+
+---
+
+## 📌 Current Focus  
+
+- 🚀 Advancing my **Java full-stack development** skills  
+- 🎨 Applying **UI/UX principles** to deliver meaningful user experiences  
+- 🌱 Contributing to **sustainable, open-source projects**  
+
+---
+
+## 🌟 My Philosophy  
+
+> *"Good code solves problems. Great code changes lives."*  
 
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-mukhtar-asad-76947026b)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ayesha-Asadd)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesha.m.asad23@gmail.com)  
 
----
-
-> 💡 *"Clean code, intuitive design, and impactful solutions — that’s my development philosophy."* 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+📧 **Email:** your.email@example.com  
