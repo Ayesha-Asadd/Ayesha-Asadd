@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Ayesha Mukhtar Asad  
 
-🎓 **Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **Certified UI/UX Designer (Figma)**  
+🎓 **Software Engineer** | 💻 **Full-Stack Web Developer** | 🎨 **Certified UI/UX Designer (Figma)**  
 
-I’m a **Software Engineer from Pakistan 🇵🇰** passionate about building **modern, scalable, and user-focused web applications**.  
-With a strong foundation in **Java, JavaScript, and the MERN stack (MongoDB, Express.js, React, Node.js)**, I craft seamless digital solutions that merge **front-end elegance** with **backend robustness**.  
+I’m a **Software Engineer from Pakistan 🇵🇰** specializing in **modern, scalable, and user-focused web applications**.  
+With expertise in **Java, JavaScript, and the MERN Stack (MongoDB, Express.js, React, Node.js)**, I bridge the gap between **front-end elegance** and **back-end robustness** to deliver high-performance digital solutions.  
 
-💼 **Certified in Figma UI/UX Designing**, I create **pixel-perfect, user-centered prototypes** and turn them into functional, production-ready systems.  
-I have hands-on experience in **REST & SOAP API integrations**, ensuring reliable communication between client and server.  
-I also design **responsive, accessible, and performance-optimized** applications that provide exceptional user experiences.  
+💼 **Certified in Figma UI/UX Design**, I create **pixel-perfect, user-centric prototypes** and transform them into fully functional, production-ready applications.  
+Skilled in **REST & SOAP API integrations**, I ensure seamless communication between client and server.  
+I also craft **responsive, accessible, and performance-optimized** applications that provide exceptional user experiences.  
 
 ---
 
-## 🚀 Tools of Trade  
+## 🚀 Tech Stack & Tools  
 
 <p align="center">
   <!-- Row 1 -->
@@ -42,15 +42,17 @@ I also design **responsive, accessible, and performance-optimized** applications
 ---
 
 ## 🌟 Professional Highlights  
-- 💼 Develop **responsive, high-performance applications** using React, Node.js, and Express.js  
-- 🛠 Skilled in **Java full-stack development** and **REST/SOAP API integration**  
-- 🎨 **Certified UI/UX Designer** – experienced in creating wireframes, prototypes, and user-centric designs in Figma  
+
+- 💻 Build **responsive, high-performance applications** using React, Node.js, and Express.js  
+- 🛠 Proficient in **Java full-stack development** with **REST & SOAP API integration**  
+- 🎨 **Certified UI/UX Designer** – skilled in wireframes, prototypes, and user-centered design using Figma  
 - 📊 Apply **software architecture best practices** for scalable, maintainable solutions  
-- 🌱 Build projects aligned with **UN Sustainable Development Goals (SDGs)**  
+- 🌱 Develop projects aligned with **UN Sustainable Development Goals (SDGs)**  
 
 ---
 
 ## 📜 Certifications  
+
 🏆 **UI/UX Design Essentials** – Designing User-Friendly Experiences  
 🏆 **Advanced UI/UX for Web & Mobile** – From Wireframe to Prototype  
 🏆 **Responsive Web Design** – Mobile-First & Accessible Interfaces  
@@ -58,20 +60,23 @@ I also design **responsive, accessible, and performance-optimized** applications
 ---
 
 ## 📌 Current Focus  
-- 🚀 Expanding expertise in **Java full-stack development**  
-- 🎨 Applying **UI/UX best practices** for impactful user experiences  
+
+- 🚀 Expanding expertise in **Java full-stack & MERN stack development**  
+- 🎨 Applying **UI/UX best practices** to create impactful designs  
 - 🌱 Contributing to **open-source & sustainable tech projects**  
 
 ---
 
-## 📈 SEO Keywords (for recruiters & discoverability)  
-`Software Engineer`, `Full-Stack Developer`, `Java Developer`, `MERN Stack`, `React Developer`, `Node.js Developer`,  
-`UI/UX Designer`, `Figma Expert`, `REST API Integration`, `SOAP API`, `Responsive Web Design`, `JavaScript`,  
-`Front-End Development`, `Back-End Development`, `API Developer`, `Angular Developer`
+## 📈 SEO-Optimized Keywords  
+
+`Software Engineer`, `Full-Stack Developer`, `Java Developer`, `MERN Stack Developer`, `React Developer`,  
+`Node.js Developer`, `UI/UX Designer`, `Figma Expert`, `REST API Integration`, `SOAP API`,  
+`Responsive Web Design`, `JavaScript Developer`, `Front-End Developer`, `Back-End Developer`, `Angular Developer`  
 
 ---
 
 ## 📫 Let’s Connect  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-mukhtar-asad-76947026b)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ayesha-Asadd)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesha.m.asad23@gmail.com)  
